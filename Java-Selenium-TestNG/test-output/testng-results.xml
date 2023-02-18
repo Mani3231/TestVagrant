@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-17T18:21:01 IST" name="Default suite" finished-at="2023-02-17T18:22:34 IST" duration-ms="92474">
+  <suite started-at="2023-02-18T13:33:21 IST" name="SmokeTest" finished-at="2023-02-18T13:33:48 IST" duration-ms="26720">
     <groups>
     </groups>
-    <test started-at="2023-02-17T18:21:01 IST" name="Default test" finished-at="2023-02-17T18:22:34 IST" duration-ms="92474">
+    <test started-at="2023-02-18T13:33:21 IST" name="UITest" finished-at="2023-02-18T13:33:48 IST" duration-ms="26720">
       <class name="com.sdet.Test.WikiTest">
-        <test-method signature="verifyMovie()[pri:0, instance:com.sdet.Test.WikiTest@708f5957]" started-at="2023-02-17T18:21:02 IST" name="verifyMovie" finished-at="2023-02-17T18:22:34 IST" duration-ms="92177" status="PASS">
+        <test-method signature="verifyMovie()[pri:0, instance:com.sdet.Test.WikiTest@35ef1869]" started-at="2023-02-18T13:33:21 IST" name="verifyMovie" finished-at="2023-02-18T13:33:48 IST" duration-ms="26661" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMovie -->
       </class> <!-- com.sdet.Test.WikiTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- UITest -->
+  </suite> <!-- SmokeTest -->
 </testng-results>
