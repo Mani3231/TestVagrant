@@ -1,25 +1,25 @@
-#Test Vagrant Automation Framework
+# Test Vagrant Automation Base Framework
 
 Basic Automation Framework for Test vagrant Automation Project
 
-#Automation Types Support
+## Automation Types Support
 
-1.Backend Automtion
+* Backend Automtion
 
-2.UI Automation
+* UI Automation
 
-#Automation Support
+## Automation Support
 
-1.Local Instance
+* Local Instance
 
-#installation Steps
+## installation Steps
 
-1.Clone the repository git clone https://github.com/Mani3231/TestVagrant/tree/master
+* Clone the repository git clone ``` https://github.com/Mani3231/TestVagrant/tree/master ```
 
-2.Import the application into : Intilj or Eclipse as maven project
+* Import the application into : ``` Intilj ``` or ``` Eclipse ``` as maven project
 
-#Run
+## Run
 
-1.mvn clean install-DskipTests=true
+* mvn clean install-DskipTests=true
 
-2.mvn clean test -DsiteXmlFile=testng.xml
+* mvn clean test -DsuiteXmlFile=testng.xml
